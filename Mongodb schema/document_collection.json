@@ -1,0 +1,10 @@
+{
+    "_id": "ObjectId",
+    "caseId": "ObjectId", 
+    "title": "String",
+    "description": "String",
+    "filePath": "String", 
+    "uploadedBy": "ObjectId", 
+    "uploadDate": "Date"
+  }
+  

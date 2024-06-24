@@ -1,0 +1,15 @@
+{
+    "_id": "ObjectId",
+    "caseId": "ObjectId", 
+    "date": "Date",
+    "time": "String",
+    "courtId": "ObjectId", 
+    "participants": [
+      {
+        "userId": "ObjectId",
+        "role": "String"
+      }
+    ],
+    "outcome": "String"
+  }
+  

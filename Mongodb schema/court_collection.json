@@ -1,0 +1,9 @@
+{
+  "_id": "ObjectId",
+  "name": "String",
+  "location": "String",
+  "contact": {
+    "phone": "String",
+    "email": "String"
+  }
+}

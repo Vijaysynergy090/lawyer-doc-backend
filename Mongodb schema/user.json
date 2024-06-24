@@ -1,0 +1,13 @@
+{
+    "_id": "ObjectId",
+    "username": "String",
+    "password": "String",   
+    "email": "String",
+    "role": "String", 
+    "profile": {
+      "firstName": "String",
+      "lastName": "String",
+      "phone": "String",
+      "address": "String"
+    }
+  }

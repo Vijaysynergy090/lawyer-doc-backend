@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "hearingId": "ObjectId", 
+    "courtId": "ObjectId",
+    "date": "Date",
+    "time": "String"
+  }
+  

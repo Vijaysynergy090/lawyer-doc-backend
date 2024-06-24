@@ -1,0 +1,17 @@
+{
+    "_id": "ObjectId",
+    "caseNumber": "String",
+    "title": "String",
+    "description": "String",
+    "status": "String", 
+    "startDate": "Date",
+    "endDate": "Date",
+    "parties": [
+      {
+        "role": "String", 
+        "userId": "ObjectId"
+      }
+    ],
+    "documents": "[ObjectId]"        
+  }
+  
